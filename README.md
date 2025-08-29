@@ -26,7 +26,7 @@ La API estará disponible en:
 http://localhost:3000
   ```
 
-Base de datos usada:
+# Base de datos usada:
  ```
   CREATE DATABASE veterinaria_Luchito;
 USE veterinaria_Luchito;
